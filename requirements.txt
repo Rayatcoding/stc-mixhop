@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+# GPU (RTX 50-series needs cu128): pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+pyarrow
+pytest
+-e .

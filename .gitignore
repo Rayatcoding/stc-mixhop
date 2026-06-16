@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+outputs/
+outputs_v4/
+outputs*/
+data/raw/
+*.zip
+*.csv
+*.parquet
+*.xlsx
+.pytest_cache/
+*.egg-info/
+.DS_Store
+Thumbs.db
