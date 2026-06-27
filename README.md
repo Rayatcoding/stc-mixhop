@@ -191,9 +191,3 @@ PYTHONPATH=src OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 python run_experiment.py \
   --no-temporal-baselines \
   --no-tabular
 ```
-
-## 10. Manuscript-positioning note
-
-The revised framing should avoid claiming universal superiority over strong tabular baselines in attribute-dominant datasets. Recommended framing:
-
-> STC-MixHop is a stability-focused framework for evaluating when multi-hop structure, temporal smoothing, and auxiliary contrastive regularization help in non-stationary risk detection. Its value is conditional on whether graph construction captures meaningful relational signal.
